@@ -1,9 +1,9 @@
 package com.example.springsecurity.service;
 
-import com.example.sprignsec.entity.Customer;
-import com.example.sprignsec.mapper.CustomerMapper;
-import com.example.sprignsec.model.CustomerModel;
-import com.example.sprignsec.repository.CustomerRepo;
+import com.example.springsecurity.entity.Customer;
+import com.example.springsecurity.mapper.CustomerMapper;
+import com.example.springsecurity.model.CustomerModel;
+import com.example.springsecurity.repository.CustomerRepo;
 import org.springframework.stereotype.Service;
 
 @Service

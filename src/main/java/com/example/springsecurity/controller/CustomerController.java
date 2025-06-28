@@ -1,7 +1,7 @@
 package com.example.springsecurity.controller;
 
-import com.example.sprignsec.model.CustomerModel;
-import com.example.sprignsec.service.CustomerService;
+import com.example.springsecurity.model.CustomerModel;
+import com.example.springsecurity.service.CustomerService;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

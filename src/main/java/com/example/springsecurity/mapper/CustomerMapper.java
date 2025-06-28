@@ -1,7 +1,7 @@
 package com.example.springsecurity.mapper;
 
-import com.example.sprignsec.entity.Customer;
-import com.example.sprignsec.model.CustomerModel;
+import com.example.springsecurity.entity.Customer;
+import com.example.springsecurity.model.CustomerModel;
 import org.mapstruct.Mapper;
 
 @Mapper(componentModel = "spring")
